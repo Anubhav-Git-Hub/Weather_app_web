@@ -31,6 +31,9 @@ Alternatively, you can allow the app to detect your current position and display
 
 To toggle between Celsius and Fahrenheit temperature units, click the "Convert to Fahrenheit" or "Convert to Celsius" link below the temperature display.
 
+Also, can click the below link to directly access to the page 
+https://anubhav-git-hub.github.io/Weather_app_web/
+
 
 # Credits
 The weather app was created by [Anubhav Agrawal]

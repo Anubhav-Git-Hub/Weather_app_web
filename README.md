@@ -8,6 +8,7 @@ This is a web app developed as a  project using HTML, CSS, and Vanilla JavaScrip
 - The app can detect the user's current position if they allow it.
 - The app fetches weather data using OpenWeatherMap API.
 
+
 # Technologies & Tools Used
 - HTML
 - CSS
